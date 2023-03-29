@@ -28,7 +28,7 @@ main{
     top: 50px;
     bottom: 0;
     left: 320px;
-    right: ;
+    right: 0;
     border: solid #000;
     position: absolute;
 }
