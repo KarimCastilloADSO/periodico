@@ -28,18 +28,35 @@ main{
     top: 50px;
     bottom: 0;
     left: 320px;
-    right: 0;
     border: solid #000;
     position: absolute;
 }
 .treinta{
     background-color: blue;
     width: 250px ;
-    height: 500px ;
-    /* top: ;
-    bottom: ; */
+    height: 450px ;
+    top: -400px;
     left: 320px;
-    right: ;
+    right: 0;
+    border: solid #000;
+    position: relative;
+}
+.sun{
+    background-color: #fff;
+    width: 250px;
+    height: 280px;
+    top: 165px;
+    left: 0;
+    border: solid #000;
+    position: relative;
+}
+.wanted{
+    background-color: chartreuse;
+    width: 500px;
+    height: 500px;
+    top: -50px;
+    left: 50px;
+    right: 0;
     border: solid #000;
     position: relative;
 }
